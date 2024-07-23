@@ -1,4 +1,4 @@
-<p>prerequisite express ,path ,ejs</p>
+<p>prerequisite to run  express ,path ,ejs</p>
 <p></p>
 <p>npm i express</p>
 <p>npm i path</p>
